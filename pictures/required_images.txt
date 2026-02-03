@@ -1,0 +1,13 @@
+Please create a folder named 'pictures' in the same directory as your index.html file.
+Then, add your photos to that folder using these exact filenames:
+
+1. hero-background.jpg  (The large background image at the top)
+2. fiona-main.jpg       (The circle portrait of Fiona at the top)
+3. bio-playing.jpg      (Image for the 'About' section - playing)
+4. bio-sleeping.jpg     (Image for the 'About' section - sleeping)
+5. gallery-1.jpg        (Gallery image 1)
+6. gallery-2.jpg        (Gallery image 2)
+7. gallery-3.jpg        (Gallery image 3)
+8. gallery-4.jpg        (Gallery image 4)
+9. gallery-5.jpg        (Gallery image 5)
+10. gallery-6.jpg       (Gallery image 6)
